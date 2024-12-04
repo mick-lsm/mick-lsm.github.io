@@ -1,0 +1,25 @@
+{
+  "name": "Mick",
+  "fullName": "Liang Siu Ming",
+  "description": "\"Hello World!\" I'm Liang Siu Ming. You can call me Mick.",
+  "contacts": [
+    {
+      "type": "github",
+      "url": "https://github.com/mick-lsm"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/micklsm"
+    },
+    {
+      "type": "bilibili",
+      "url": "https://space.bilibili.com/506165030?spm_id_from=333.1007.0.0"
+    },
+    {
+      "type": "email",
+      "url": "mailto:2144574042@qq.com"
+    }
+  ],
+  "birthday": "2024-07-15"
+}
+
