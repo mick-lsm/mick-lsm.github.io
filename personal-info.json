@@ -20,6 +20,18 @@
       "url": "mailto:2144574042@qq.com"
     }
   ],
-  "birthday": "2024-07-15"
+  "school":[
+    {
+      "type":"primary",
+      "schoolName":"SKHKWPS",
+      "schoolUrl":"https://www.skhkwps.edu.hk"
+    },
+    {
+      "type":"secondary",
+      "schoolName":"ELCHKLSS",
+      "schoolUrl":"https://www.lss.edu.hk"
+    }
+  ],
+  "birthday": "2024-07-16"
 }
 
