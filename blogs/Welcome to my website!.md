@@ -6,6 +6,4 @@
 請隨時透過聯絡頁面與我們聯繫—我很樂意收到您的來信！
 感謝您的光臨！
 
-[本網站Github](https://github.com/mick-lsm/mick-lsm.github.io)
-
-哦，順便說一句，這個網站是由 v0 AI 創建的
+[本網站Github Repository](https://github.com/mick-lsm/mick-lsm.github.io)
